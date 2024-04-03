@@ -11,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges . With a passion for learning . I iam dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Shashank127Yadav ",
   resume:
-    "https://drive.google.com/file/d/1ihE7HKkpt9IUdLgztWHU5RjSHNnk1NNZ/view?usp=sharing",
+    "https://drive.google.com/file/d/1R_uLVe8rLwycGlVwP_3mENavnEZS9s5C/view?usp=sharing,
   linkedin: "https://www.linkedin.com/in/shashank-yadav-3b4187269/",
   // twitter: "https://twitter.com/RishavChanda",
   // insta: "https://www.instagram.com/monikayadav7/",
